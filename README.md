@@ -130,6 +130,6 @@ See `requirements.txt` for complete list.
 
 ## Online App
 
-You can also play around with the ap at 
+You can also play around with the app at 
 
 https://adrielhigor-chess-analyzer-streamlit-app-rqt9lb.streamlit.app/
